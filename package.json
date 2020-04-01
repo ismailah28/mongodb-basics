@@ -1,0 +1,11 @@
+{
+  "name": "startng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ismailah28/startng.git",
+  "author": "Ismaila Hassan <ismailah28@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
